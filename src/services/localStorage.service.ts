@@ -1,4 +1,4 @@
-export class localStorageService {
+export class LocalStorageService {
     constructor() { }
     
     //Save token in localStorage
